@@ -110,7 +110,7 @@ const readOutLoud = ev =>
         speechSynthesis.speak(u = new SpeechSynthesisUtterance(v),u);
     }
     
-    return
+    return;
 }
 
 
